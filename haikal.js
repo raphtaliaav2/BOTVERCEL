@@ -4600,7 +4600,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -4661,7 +4661,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4697,7 +4697,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4723,7 +4723,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4753,7 +4753,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4779,7 +4779,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4808,7 +4808,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4836,7 +4836,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4871,7 +4871,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -4924,7 +4924,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -5002,7 +5002,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 
 [ 🇲🇨 Aku Adalah Bot War Dari Indonesia]
 
-° Owner  : 6281214281312
+° Owner  : 6288212912038
 ° Version : 12
 ° Baileys : 4.4.0
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
@@ -5030,11 +5030,11 @@ Ketik > m.chat ( di group dulu )
 ┏━━⊱
 ┣❏gasbug (id group nya)
 ┗━━⊱`,
-contextInfo:{"externalAdReply": {"title": `SC banghw`,"body": `Selamat ${salam} kak ${pushname}`,
+contextInfo:{"externalAdReply": {"title": `ciel`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/c/HwModsWa857`,
-thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg', 
+sourceUrl: `https://nekopoi.care`,
+thumbnailUrl: 'https://i.ibb.co/WFZCjRP/1645995698459.jpg', 
 }
 }}, { quoted:m})
 }
@@ -5049,7 +5049,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hay Kak ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © © °banghw°-
+"description": ` - © © °ciel°-
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -5062,7 +5062,7 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIB LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© © °banghw°WE ARE NOT MASTOD`,
+"retailerId": `© © °ciel°WE ARE NOT MASTOD`,
 "url": "Wa.me/6285714170944"
 },
 "businessOwnerJid": "6285714170944@s.whatsapp.net",
@@ -5088,7 +5088,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┣❏cantik
 ┣❏kesel
 ┣❏ngeselin
-┗━━⊱[ © °banghw°]`,
+┗━━⊱[ © °ciel-sama°]`,
 contextInfo:{"externalAdReply": {"title": `SC © banghw`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
@@ -5124,7 +5124,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `
 ┣❏heleh
 ┣❏holoh
 ┣❏delttt]
-┗━━⊱[ © °banghw°]`,
+┗━━⊱[ © °ciel-sama°]`,
 contextInfo:{"externalAdReply": {"title": `SC © banghw`,"body": `Selamat ${salam} kak ${pushname}`,
 previewType: "PHOTO",
 showAdAttribution: true,
